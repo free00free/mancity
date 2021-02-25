@@ -118,7 +118,7 @@ nav li {
 #Box5 {
     position: relative;
     background: red;
-    animation: moveBox 2s 3s:
+    animation: moveBox 2s 3s;
 }
 
 #Box6 {
